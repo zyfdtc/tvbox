@@ -1,0 +1,59 @@
+央卫综合,#genre#
+CCTV1,http://60.255.120.30:89/live2/live2.m3u8
+CCTV1,http://111.59.63.32:9901/tsfile/live/1008_1.m3u8
+CCTV1,http://221.213.43.82:8888/newlive/live/hls/2/live.m3u8
+CCTV3,http://111.59.63.32:9901/tsfile/live/1010_1.m3u8
+CCTV3,http://221.213.43.82:8888/newlive/live/hls/4/live.m3u8
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+浙江卫视,http://221.213.43.82:8888/newlive/live/hls/24/live.m3u8
+浙江卫视,http://111.59.63.32:9901/tsfile/live/1031_1.m3u8
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
+浙江卫视,http://222.71.90.218:8888/newlive/live/hls/20/live.m3u8
+东方卫视,http://222.71.90.218:8888/newlive/live/hls/19/live.m3u8
+CCTV11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8
+戏曲 576,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240333_1/playlist.m3u8
+浙江综合,#genre#
+浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
+浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/720p.m3u8?zzhed
+浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/360p.m3u8?zzhed
+浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?zzhed
+浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8?zzhed
+浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel03/360p.m3u8?zzhed
+浙江教科影院,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
+浙江教科影院,http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8?zzhed
+浙江教科影院,http://hw-m-l.cztv.com/channels/lantian/channel04/360p.m3u8?zzhed
+浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed
+浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8?zzhed
+浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel06/360p.m3u8?zzhed
+浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed
+浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8?zzhed
+浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/360p.m3u8?zzhed
+绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
+AdultIPTV.net Anal (720p),http://cdn.adultiptv.net/anal.m3u8
+AdultIPTV.net Asian (720p),http://cdn.adultiptv.net/asian.m3u8
+AdultIPTV.net Big Ass (720p),http://cdn.adultiptv.net/bigass.m3u8
+AdultIPTV.net Big Dick (720p),http://cdn.adultiptv.net/bigdick.m3u8
+AdultIPTV.net Big Tits (720p),http://cdn.adultiptv.net/bigtits.m3u8
+AdultIPTV.net Blonde (720p),http://cdn.adultiptv.net/blonde.m3u8
+AdultIPTV.net Blowjob (720p),http://cdn.adultiptv.net/blowjob.m3u8
+AdultIPTV.net Brunette (720p),http://cdn.adultiptv.net/brunette.m3u8
+AdultIPTV.net Compilation (720p),http://cdn.adultiptv.net/compilation.m3u8
+AdultIPTV.net Cuckold (720p),http://cdn.adultiptv.net/cuckold.m3u8
+AdultIPTV.net Fetish (720p),http://cdn.adultiptv.net/fetish.m3u8
+AdultIPTV.net Gangbang (720p),http://cdn.adultiptv.net/gangbang.m3u8
+AdultIPTV.net Gay (720p),http://cdn.adultiptv.net/gay.m3u8
+AdultIPTV.net Hardcore (720p),http://cdn.adultiptv.net/hardcore.m3u8
+AdultIPTV.net Interracial (720p),http://cdn.adultiptv.net/interracial.m3u8
+AdultIPTV.net Latina (720p),http://cdn.adultiptv.net/latina.m3u8
+AdultIPTV.net Lesbian (720p),http://cdn.adultiptv.net/lesbian.m3u8
+AdultIPTV.net Live Cams (720p),http://cdn.adultiptv.net/livecams.m3u8
+AdultIPTV.net MILF (720p),http://cdn.adultiptv.net/milf.m3u8
+AdultIPTV.net Pornstar (720p),http://cdn.adultiptv.net/pornstar.m3u8
+AdultIPTV.net POV (720p),http://cdn.adultiptv.net/pov.m3u8
+AdultIPTV.net Rough (720p),http://cdn.adultiptv.net/rough.m3u8
+AdultIPTV.net Russian (720p),http://cdn.adultiptv.net/russian.m3u8
+AdultIPTV.net Teen (720p),http://cdn.adultiptv.net/teen.m3u8
+AdultIPTV.net Threesome (720p),http://cdn.adultiptv.net/threesome.m3u8
+AdultIPTV.net Woman (720p),http://live.redtraffic.net/woman.m3u8
