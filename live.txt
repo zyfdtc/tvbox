@@ -4,12 +4,8 @@ CCTV1,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3831204341_
 CCTV1,http://120.196.232.19:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
 CCTV1,http://hms104nc1972679567.live.aikan.miguvideo.com/wh7f454c46tw1527236682_-1078217348/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=14.145.29.204&timestamp=20231130022447&ContentId=265183188&timezone=UTC&mtv_session=962d02dbffb344d0ff4107d62df587ff&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=930bd9206841d7889d242297864719d5
 
-CCTV11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8?
-CCTV11,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8
 CCTV11,http://hms324nc1972679589.live.aikan.miguvideo.com/wh7f454c46tw2021811525_681070453/migu/kailu/cctv11hd/57/20200103/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=47.94.105.9&timestamp=20231126090419&ContentId=265667429&timezone=UTC&mtv_session=2d8da3a0c66aee0384b616c201ddcf58&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=63062f51fbdd148f66e8a68ff0bad8bd
 
-浙江卫视,http://111.59.63.32:9901/tsfile/live/1031_1.m3u8
-浙江卫视,http://222.71.90.218:8888/newlive/live/hls/20/live.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
 
