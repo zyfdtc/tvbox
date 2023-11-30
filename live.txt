@@ -1,15 +1,8 @@
 自定义,#genre#
 CCTV1,http://60.255.120.30:89/live2/live2.m3u8
-CCTV1,http://42.176.185.28:9901/tsfile/live/1021_1.m3u8
-CCTV1,http://42.176.185.28:9901/tsfile/live/1022_1.m3u8
-CCTV1,http://111.59.63.32:9901/tsfile/live/1008_1.m3u8
-CCTV1,http://221.213.43.82:8888/newlive/live/hls/2/live.m3u8
 CCTV11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
-浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/720p.m3u8?zzhed
-浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/360p.m3u8?zzhed
-浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=ace136d16e3700972b06cca5316b34d8&t=1577153432
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8?zzhed
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/360p.m3u8?zzhed
@@ -46,7 +39,7 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 
 CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061_461954091/migu/kailu/20200324/cctv17hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208133753&ContentId=265667526&timezone=UTC&mtv_session=2ab00b83c917e8ba1b1bb082711b8b77&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4c04c5308e4761e3cc4b36134b05b864
 
-CCTV1,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
+
 CCTV2,https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
 CCTV3,https://live.goodiptv.club/api/cqyx.php?id=cctv3HD
 CCTV4,https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
@@ -749,4 +742,3 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 福建武夷山玉女峰,http://gcbsc.v.live.baishancdnx.cn/gc/wysynf_1/index.m3u8
 为天使护航,http://gcksc.v.kcdnvip.com/gc/zsslsfwsgz_1/index.m3u8
 为天使护航,http://gcbsc.v.live.baishancdnx.cn/gc/zsslsfwsgz_1/index.m3u8
-
